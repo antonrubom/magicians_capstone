@@ -1,2 +1,2 @@
 # magicians_capstone
-The magicians are creating a video library on the Outbox EDU course. 
+The magicians software developer group have created a netflix-like video library. 
